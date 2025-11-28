@@ -5,6 +5,7 @@ Essa trilha é voltada para quem quer propor novas experiências, plataformas e 
 
 ### 💬 Exemplo de dor atual:
 - **Plataforma de Ideias:** muitas sugestões surgem em conversas informais e se perdem por falta de um espaço estruturado para propor, votar e acompanhar melhorias.
+- **Bot para o whatsapp da comunidade:** Fazer toda a gestão de grupos e pessoas pelo Bot
 
 ## 🧠 O que será avaliado
 
