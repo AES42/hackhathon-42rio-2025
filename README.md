@@ -46,26 +46,17 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 
 ---
 
-## 🧠 Diferença entre as Trilhas
-
-| Aspecto | **Composability** | **Inovação** |
-|----------|------------------|--------------|
-| **Foco** | Integração com sistemas já existentes | Criação de novas experiências e soluções |
-| **Natureza** | Técnica, voltada a automação e conectividade | Criativa, voltada à experiência e comunidade |
-| **Exemplo** | Bot de presença, automação de tickets, sincronização com Intra | Plataforma de ideias, IA de aprendizado, gamificação do progresso |
-| **Objetivo** | Melhorar fluxos internos e reduzir atritos operacionais | Gerar novas formas de engajamento, aprendizado e colaboração |
-| **Público-alvo** | Estudantes, staff e administradores do campus | Toda a comunidade 42 Rio |
-
 ## 📅 Cronograma
 
 | Data | Hora | Atividade |
 |------|------|-----------|
 |05/12| 18:00 | Abertura oficial e início do hackathon |
-|06/12| 11:00 | touchpoint com mentores |
-|06/12| 18:00 | touchpoint com mentores |
-|07/12| 11:00 | touchpoint com mentores |
-|07/12| 18:00 | touchpoint com mentores |
+|05/12| XX:00 | Papo sobre MVP |
+|06/12| 11:00 | Touchpoint com mentores |
+|06/12| 18:00 | Touchpoint com mentores |
+|07/12| 11:00 | Touchpoint com mentores |
+|07/12| 18:00 | Touchpoint com mentores |
 |07/12| 23:42 | Encerramento do envio de projetos |
 |09/12| 12:42 | Encerramento do envio das apresentações |
-|09/12| 19:00 | Início das apresentações finais |
-|09/12| 21:00 | Anúncio dos vencedores e encerramento do evento |
+|10/12| 18:00 | Início das apresentações finais |
+|10/12| XX:00 | Anúncio dos vencedores e encerramento do evento |
