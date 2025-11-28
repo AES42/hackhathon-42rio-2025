@@ -6,7 +6,7 @@ Os projetos podem seguir **duas grandes trilhas temáticas**, que representam di
 
 ---
 
-## ⚙️ Trilha 1 — Composability
+## Sugestão de temas - Integrações 42
 
 Crie soluções que **se integrem com o ecossistema da 42**.
 Essa trilha é voltada para quem quer construir ferramentas, bots, automações ou sistemas que **conversem com as plataformas já existentes** (Intra, Discord, Starship, planilhas, etc.) e otimizem o funcionamento do campus.
@@ -15,7 +15,7 @@ Essa trilha é voltada para quem quer construir ferramentas, bots, automações 
 
 ---
 
-## 💡 Trilha 2 — Innovation
+## Sugestão de temas - criatividade e inovação
 
 Crie soluções **novas e criativas** que fortaleçam o aprendizado, a colaboração e a cultura da 42.
 Essa trilha é voltada para quem quer propor novas experiências, plataformas e ideias que ampliem o impacto da comunidade.
