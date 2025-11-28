@@ -11,7 +11,7 @@ Os projetos podem seguir **duas grandes trilhas temáticas**, que representam di
 Crie soluções que **se integrem com o ecossistema da 42**.
 Essa trilha é voltada para quem quer construir ferramentas, bots, automações ou sistemas que **conversem com as plataformas já existentes** (Intra, Discord, Starship, planilhas, etc.) e otimizem o funcionamento do campus.
 
-🔗 **Leia mais sobre essa trilha:** [tema Integrações 42 — README](./composability/README.md)
+🔗 **Leia mais sobre:** [tema Integrações 42 — README](./composability/README.md)
 
 ---
 
@@ -20,7 +20,7 @@ Essa trilha é voltada para quem quer construir ferramentas, bots, automações 
 Crie soluções **novas e criativas** que fortaleçam o aprendizado, a colaboração e a cultura da 42.
 Essa trilha é voltada para quem quer propor novas experiências, plataformas e ideias que ampliem o impacto da comunidade.
 
-🔗 **Leia mais sobre essa trilha:** [tema Inovação — README](./innovation/README.md)
+🔗 **Leia mais sobre:** [tema Inovação — README](./innovation/README.md)
 
 ---
 
