@@ -37,6 +37,13 @@ Os projetos serão avaliados com base em quatro dimensões principais:
 
 ---
 
+## Submissão
+
+Certifique-se de deixar os links públicos para que a banca possa avaliar!
+
+[Formulario de Submissão](https://forms.gle/WjmzteuaVv3kFxYW7)
+---
+
 ## 🎁 Prêmios
 
 - 🥇 **1º Lugar:** premiação + sua ideia implementada na 42 rio.
